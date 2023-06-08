@@ -1,10 +1,10 @@
 package LowLevelDesign.LLDCricbuzz.Inning;
 
-import LowLevelDesign.LLDCricBuzz.Match.Team.Player.PlayerDetails;
-import LowLevelDesign.LLDCricBuzz.Match.Team.Team;
-
 import java.util.ArrayList;
 import java.util.List;
+import LowLevelDesign.LLDCricbuzz.Team.Player.PlayerDetails;
+import LowLevelDesign.LLDCricbuzz.Team.Team;
+
 
 public class OverDetails {
 

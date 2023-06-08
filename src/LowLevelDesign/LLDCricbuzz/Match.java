@@ -1,9 +1,10 @@
 package LowLevelDesign.LLDCricbuzz;
 
-import LowLevelDesign.LLDCricBuzz.Match.Inning.InningDetails;
-import LowLevelDesign.LLDCricBuzz.Match.Team.Team;
 
 import java.util.Date;
+import LowLevelDesign.LLDCricbuzz.Inning.InningDetails;
+import LowLevelDesign.LLDCricbuzz.Team.Team;
+
 
 public class Match {
 
